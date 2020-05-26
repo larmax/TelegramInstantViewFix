@@ -3,7 +3,7 @@
   "name": "TelegramInstantViewFix",
   "version": "1.0",
 
-  "description": "Automatically redirect to instant view test site link",
+  "description": "Automatically redirect to instant view test site link.",
 
   "icons": {
     "48": "icons/TIVF.png"
